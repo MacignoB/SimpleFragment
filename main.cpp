@@ -9,7 +9,7 @@
 #include <iostream>
 using namespace std;
 
-// Just for test 2
+// Just for test 3
 
 //
 // Print a greeting message on standard output and exit.
