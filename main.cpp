@@ -10,7 +10,11 @@
 using namespace std;
 
 
+<<<<<<< HEAD
 // created branch fix24 hotfix
+=======
+// created branch fix21
+>>>>>>> fix21
 
 //
 // Print a greeting message on standard output and exit.
