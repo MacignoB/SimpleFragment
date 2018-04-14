@@ -9,6 +9,8 @@
 #include <iostream>
 using namespace std;
 
+// Just for test
+
 //
 // Print a greeting message on standard output and exit.
 //
